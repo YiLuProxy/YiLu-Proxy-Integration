@@ -5,6 +5,9 @@
 
 The article will tell you how to integrate YiLu proxy with the third-party applications, such as antidetect browsers(Lalicat, VMLogin, GoLogin, AdsPower), browsers(Google Chrome, Firefox, Edge), extensions(SwitchyOmega, FoxyProxy), etc(ParseHub, WebHarvy).
 
+YiLu Proxy trial: https://yilu.us/trial
+New users promotion: https://yilu.us/faq/yilu-promotion-for-new-users
+
 ## Antidetect Browser ##
 ### [Lalicat](https://yilu.us/integration/yilu-proxy-used-with-lalicat-browser) ###
 - [Video tutorial](https://www.youtube.com/watch?v=3A8ZOv9D3T8)
