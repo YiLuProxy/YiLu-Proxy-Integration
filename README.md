@@ -1,7 +1,7 @@
 # YiLu-Proxy-Integration
 ## Introduction ##
 
-**[YiLu Proxy](https://yilu.us) is a top [Socks5 Proxy](https://yilu.us) provider that provides 90 million global dynamic residential IP proxies updated daily, provided by international hosting retailers' proprietary stable IP addresses.
+**[YiLu Proxy](https://yilu.us)** is a top **[Socks5 Proxy](https://yilu.us)** provider that provides 90 million global dynamic residential IP proxies updated daily, provided by international hosting retailers' proprietary stable IP addresses.
 
 The article will tell you how to integrate YiLu proxy with the third-party applications, such as antidetect browsers(Lalicat, VMLogin, GoLogin, AdsPower), browsers(Google Chrome, Firefox, Edge), extensions(SwitchyOmega, FoxyProxy), etc(ParseHub, WebHarvy).
 
